@@ -1,5 +1,11 @@
 [
   {
+    "package": "EpiSoon",
+    "url": "https://github.com/epiforecasts/EpiSoon",
+    "via": ["EpiNow"],
+    "from": "EpiNow"
+  },
+  {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["forecast.vocs"],
@@ -20,11 +26,23 @@
     "from": "qra"
   },
   {
+    "package": "rnaturalearthhires",
+    "url": "https://github.com/ropensci/rnaturalearthhires",
+    "via": ["EpiNow"],
+    "from": "EpiNow"
+  },
+  {
     "package": "scoringutils",
     "url": "https://github.com/epiforecasts/scoringutils",
     "via": ["qra"],
     "branch": "b370557",
     "from": "qra"
+  },
+  {
+    "package": "stackr",
+    "url": "https://github.com/nikosbosse/stackr",
+    "via": ["EpiNow", "EpiSoon"],
+    "from": "EpiNow"
   },
   {
     "package": "stackr",

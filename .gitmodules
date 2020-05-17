@@ -67,6 +67,10 @@
 	path = rbi.helpers
 	url = https://github.com/sbfnk/rbi.helpers
 	branch = *release
+[submodule "rnaturalearthhires"]
+	path = rnaturalearthhires
+	url = https://github.com/ropensci/rnaturalearthhires
+	registered = false
 [submodule "scoringutils"]
 	path = scoringutils
 	url = https://github.com/epiforecasts/scoringutils
