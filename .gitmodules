@@ -3,3 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EpiNow2"]
+	path = EpiNow2
+	url = https://github.com/epiforecasts/epinow2
+	shallow = true
+[submodule "RtD3"]
+	path = RtD3
+	url = https://github.com/epiforecasts/rtd3
+	shallow = true
+[submodule "scoringutils"]
+	path = scoringutils
+	url = https://github.com/epiforecasts/scoringutils
+	shallow = true
