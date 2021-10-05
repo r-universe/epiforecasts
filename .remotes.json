@@ -10,5 +10,12 @@
     "url": "https://github.com/stan-dev/loo",
     "via": ["epinowcast"],
     "from": "epinowcast"
+  },
+  {
+    "package": "quantgen",
+    "url": "https://github.com/ryantibs/quantgen",
+    "via": ["covid19.forecasts.uk"],
+    "subdir": "quantgen",
+    "from": "covid19.forecasts.uk"
   }
 ]

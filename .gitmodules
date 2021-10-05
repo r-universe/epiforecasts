@@ -88,3 +88,9 @@
 	url = https://github.com/stan-dev/loo
 	shallow = true
 	registered = false
+[submodule "quantgen"]
+	path = quantgen
+	url = https://github.com/ryantibs/quantgen
+	shallow = true
+	subdir = quantgen
+	registered = false
