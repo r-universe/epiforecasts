@@ -1,0 +1,54 @@
+[
+  {
+    "package": "EpiSoon"
+  },
+  {
+    "package": "EpiNow"
+  },
+  {
+    "package": "epinowcast"
+  },
+  {
+    "package": "EpiNow2",
+    "oncran": true
+  },
+  {
+    "package": "RtD3",
+    "oncran": true
+  },
+  {
+    "package": "covidregionaldata",
+    "oncran": true
+  },
+  {
+    "package": "covid19.nhs.data"
+  },
+  {
+    "package": "scoringutils",
+    "oncran": true
+  },
+  {
+    "package": "idbrms"
+  },
+  {
+    "package": "covid19.forecasts.uk"
+  },
+  {
+    "package": "forecast.vocs"
+  },
+  {
+    "package": "socialmixr",
+    "oncran": false
+  },
+  {
+    "package": "epimixr"
+  },
+  {
+    "package": "rbi",
+    "oncran": true
+  },
+  {
+    "package": "rbi.helpers",
+    "oncran": true
+  }
+]
