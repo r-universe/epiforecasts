@@ -6,6 +6,12 @@
     "from": "epinowcast"
   },
   {
+    "package": "cmdstanr",
+    "url": "https://github.com/stan-dev/cmdstanr",
+    "via": ["forecast.vocs"],
+    "from": "forecast.vocs"
+  },
+  {
     "package": "loo",
     "url": "https://github.com/stan-dev/loo",
     "via": ["epinowcast"],
