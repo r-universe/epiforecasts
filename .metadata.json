@@ -17,8 +17,7 @@
     "oncran": true
   },
   {
-    "package": "covidregionaldata",
-    "oncran": true
+    "package": "covidregionaldata"
   },
   {
     "package": "covid19.nhs.data"
