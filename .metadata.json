@@ -9,8 +9,7 @@
     "package": "epinowcast"
   },
   {
-    "package": "EpiNow2",
-    "oncran": true
+    "package": "EpiNow2"
   },
   {
     "package": "RtD3",
