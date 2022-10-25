@@ -94,8 +94,3 @@
 	shallow = true
 	subdir = quantgen
 	registered = false
-[submodule "roxyglobals"]
-	path = roxyglobals
-	url = https://github.com/anthonynorth/roxyglobals
-	shallow = true
-	registered = false

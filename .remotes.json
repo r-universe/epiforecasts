@@ -23,11 +23,5 @@
     "via": ["covid19.forecasts.uk"],
     "subdir": "quantgen",
     "from": "covid19.forecasts.uk"
-  },
-  {
-    "package": "roxyglobals",
-    "url": "https://github.com/anthonynorth/roxyglobals",
-    "via": ["socialmixr"],
-    "from": "socialmixr"
   }
 ]
