@@ -23,5 +23,17 @@
     "via": ["covid19.forecasts.uk"],
     "subdir": "quantgen",
     "from": "covid19.forecasts.uk"
+  },
+  {
+    "package": "scoringutils",
+    "url": "https://github.com/epiforecasts/scoringutils",
+    "via": ["EpiSoon", "stackr"],
+    "from": "EpiSoon"
+  },
+  {
+    "package": "stackr",
+    "url": "https://github.com/nikosbosse/stackr",
+    "via": ["EpiSoon"],
+    "from": "EpiSoon"
   }
 ]

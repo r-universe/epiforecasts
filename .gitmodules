@@ -94,3 +94,8 @@
 	shallow = true
 	subdir = quantgen
 	registered = false
+[submodule "stackr"]
+	path = stackr
+	url = https://github.com/nikosbosse/stackr
+	shallow = true
+	registered = false
