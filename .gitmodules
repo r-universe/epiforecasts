@@ -5,19 +5,19 @@
 [submodule "EpiNow"]
 	path = EpiNow
 	url = https://github.com/epiforecasts/EpiNow
-	branch = *release
+	branch = v0.4.0
 [submodule "EpiNow2"]
 	path = EpiNow2
 	url = https://github.com/epiforecasts/EpiNow2
-	branch = *release
+	branch = v1.6.1
 [submodule "EpiSoon"]
 	path = EpiSoon
 	url = https://github.com/epiforecasts/EpiSoon
-	branch = *release
+	branch = v0.3.1
 [submodule "RtD3"]
 	path = RtD3
 	url = https://github.com/epiforecasts/RtD3
-	branch = *release
+	branch = 1.0.0
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
@@ -29,11 +29,11 @@
 [submodule "covid19.nhs.data"]
 	path = covid19.nhs.data
 	url = https://github.com/epiforecasts/covid19.nhs.data
-	branch = *release
+	branch = v0.1.0
 [submodule "covidregionaldata"]
 	path = covidregionaldata
 	url = https://github.com/epiforecasts/covidregionaldata
-	branch = *release
+	branch = 0.9.3
 [submodule "epimixr"]
 	path = epimixr
 	url = https://github.com/sbfnk/epimixr
@@ -41,11 +41,11 @@
 [submodule "epinowcast"]
 	path = epinowcast
 	url = https://github.com/epiforecasts/epinowcast
-	branch = *release
+	branch = v0.3.0
 [submodule "forecast.vocs"]
 	path = forecast.vocs
 	url = https://github.com/epiforecasts/forecast.vocs
-	branch = *release
+	branch = v0.9.0
 [submodule "idbrms"]
 	path = idbrms
 	url = https://github.com/epiforecasts/idbrms
@@ -53,7 +53,7 @@
 [submodule "qra"]
 	path = qra
 	url = https://github.com/epiforecasts/qra
-	branch = *release
+	branch = v0.1.0
 [submodule "quantgen"]
 	path = quantgen
 	url = https://github.com/ryantibs/quantgen
@@ -62,7 +62,7 @@
 [submodule "rbi"]
 	path = rbi
 	url = https://github.com/sbfnk/RBi
-	branch = *release
+	branch = v1.0.0
 [submodule "rbi.helpers"]
 	path = rbi.helpers
 	url = https://github.com/sbfnk/rbi.helpers
@@ -70,11 +70,11 @@
 [submodule "scoringutils"]
 	path = scoringutils
 	url = https://github.com/epiforecasts/scoringutils
-	branch = *release
+	branch = v2.0.0
 [submodule "socialmixr"]
 	path = socialmixr
 	url = https://github.com/epiforecasts/socialmixr
-	branch = *release
+	branch = v0.4.0
 [submodule "stackr"]
 	path = stackr
 	url = https://github.com/nikosbosse/stackr

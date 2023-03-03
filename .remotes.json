@@ -22,12 +22,6 @@
   {
     "package": "scoringutils",
     "url": "https://github.com/epiforecasts/scoringutils",
-    "via": ["EpiSoon", "stackr"],
-    "from": "EpiSoon"
-  },
-  {
-    "package": "scoringutils",
-    "url": "https://github.com/epiforecasts/scoringutils",
     "via": ["qra"],
     "branch": "b370557",
     "from": "qra"
