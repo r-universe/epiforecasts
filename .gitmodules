@@ -1,101 +1,66 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/epiforecasts/universe
-	shallow = true
 	branch = HEAD
 [submodule "EpiSoon"]
 	path = EpiSoon
 	url = https://github.com/epiforecasts/EpiSoon
-	shallow = true
-	registered = true
 [submodule "EpiNow"]
 	path = EpiNow
 	url = https://github.com/epiforecasts/EpiNow
-	shallow = true
-	registered = true
 [submodule "epinowcast"]
 	path = epinowcast
 	url = https://github.com/epiforecasts/epinowcast
-	shallow = true
-	registered = true
 [submodule "EpiNow2"]
 	path = EpiNow2
 	url = https://github.com/epiforecasts/EpiNow2
-	shallow = true
-	registered = true
 [submodule "RtD3"]
 	path = RtD3
 	url = https://github.com/epiforecasts/RtD3
-	shallow = true
-	registered = true
 [submodule "covidregionaldata"]
 	path = covidregionaldata
 	url = https://github.com/epiforecasts/covidregionaldata
-	shallow = true
-	registered = true
 [submodule "covid19.nhs.data"]
 	path = covid19.nhs.data
 	url = https://github.com/epiforecasts/covid19.nhs.data
-	shallow = true
-	registered = true
 [submodule "scoringutils"]
 	path = scoringutils
 	url = https://github.com/epiforecasts/scoringutils
-	shallow = true
-	registered = true
 [submodule "idbrms"]
 	path = idbrms
 	url = https://github.com/epiforecasts/idbrms
-	shallow = true
-	registered = true
 [submodule "covid19.forecasts.uk"]
 	path = covid19.forecasts.uk
 	url = https://github.com/epiforecasts/covid19.forecasts.uk
-	shallow = true
-	registered = true
 [submodule "forecast.vocs"]
 	path = forecast.vocs
 	url = https://github.com/epiforecasts/forecast.vocs
-	shallow = true
-	registered = true
 [submodule "socialmixr"]
 	path = socialmixr
 	url = https://github.com/epiforecasts/socialmixr
-	shallow = true
-	registered = true
 [submodule "epimixr"]
 	path = epimixr
 	url = https://github.com/sbfnk/epimixr
-	shallow = true
-	registered = true
 [submodule "rbi"]
 	path = rbi
 	url = https://github.com/sbfnk/RBi
-	shallow = true
-	registered = true
 [submodule "rbi.helpers"]
 	path = rbi.helpers
 	url = https://github.com/sbfnk/rbi.helpers
-	shallow = true
-	registered = true
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
-	shallow = true
 	registered = false
 [submodule "loo"]
 	path = loo
 	url = https://github.com/stan-dev/loo
-	shallow = true
 	registered = false
 [submodule "quantgen"]
 	path = quantgen
 	url = https://github.com/ryantibs/quantgen
-	shallow = true
 	subdir = quantgen
 	registered = false
 [submodule "stackr"]
 	path = stackr
 	url = https://github.com/nikosbosse/stackr
-	shallow = true
 	registered = false
