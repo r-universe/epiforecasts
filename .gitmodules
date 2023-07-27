@@ -60,6 +60,10 @@
 	url = https://github.com/ryantibs/quantgen
 	subdir = quantgen
 	registered = false
+[submodule "roxyglobals"]
+	path = roxyglobals
+	url = https://github.com/anthonynorth/roxyglobals
+	registered = false
 [submodule "stackr"]
 	path = stackr
 	url = https://github.com/nikosbosse/stackr
