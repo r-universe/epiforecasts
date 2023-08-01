@@ -2,55 +2,43 @@
 	path = .registry
 	url = https://github.com/epiforecasts/universe
 	branch = HEAD
-[submodule "EpiSoon"]
-	path = EpiSoon
-	url = https://github.com/epiforecasts/EpiSoon
 [submodule "EpiNow"]
 	path = EpiNow
 	url = https://github.com/epiforecasts/EpiNow
-[submodule "epinowcast"]
-	path = epinowcast
-	url = https://github.com/epiforecasts/epinowcast
 [submodule "EpiNow2"]
 	path = EpiNow2
 	url = https://github.com/epiforecasts/EpiNow2
+[submodule "EpiSoon"]
+	path = EpiSoon
+	url = https://github.com/epiforecasts/EpiSoon
 [submodule "RtD3"]
 	path = RtD3
 	url = https://github.com/epiforecasts/RtD3
-[submodule "covidregionaldata"]
-	path = covidregionaldata
-	url = https://github.com/epiforecasts/covidregionaldata
-[submodule "covid19.nhs.data"]
-	path = covid19.nhs.data
-	url = https://github.com/epiforecasts/covid19.nhs.data
-[submodule "scoringutils"]
-	path = scoringutils
-	url = https://github.com/epiforecasts/scoringutils
-[submodule "idbrms"]
-	path = idbrms
-	url = https://github.com/epiforecasts/idbrms
-[submodule "covid19.forecasts.uk"]
-	path = covid19.forecasts.uk
-	url = https://github.com/epiforecasts/covid19.forecasts.uk
-[submodule "forecast.vocs"]
-	path = forecast.vocs
-	url = https://github.com/epiforecasts/forecast.vocs
-[submodule "socialmixr"]
-	path = socialmixr
-	url = https://github.com/epiforecasts/socialmixr
-[submodule "epimixr"]
-	path = epimixr
-	url = https://github.com/sbfnk/epimixr
-[submodule "rbi"]
-	path = rbi
-	url = https://github.com/sbfnk/RBi
-[submodule "rbi.helpers"]
-	path = rbi.helpers
-	url = https://github.com/sbfnk/rbi.helpers
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
 	registered = false
+[submodule "covid19.forecasts.uk"]
+	path = covid19.forecasts.uk
+	url = https://github.com/epiforecasts/covid19.forecasts.uk
+[submodule "covid19.nhs.data"]
+	path = covid19.nhs.data
+	url = https://github.com/epiforecasts/covid19.nhs.data
+[submodule "covidregionaldata"]
+	path = covidregionaldata
+	url = https://github.com/epiforecasts/covidregionaldata
+[submodule "epimixr"]
+	path = epimixr
+	url = https://github.com/sbfnk/epimixr
+[submodule "epinowcast"]
+	path = epinowcast
+	url = https://github.com/epiforecasts/epinowcast
+[submodule "forecast.vocs"]
+	path = forecast.vocs
+	url = https://github.com/epiforecasts/forecast.vocs
+[submodule "idbrms"]
+	path = idbrms
+	url = https://github.com/epiforecasts/idbrms
 [submodule "loo"]
 	path = loo
 	url = https://github.com/stan-dev/loo
@@ -60,10 +48,22 @@
 	url = https://github.com/ryantibs/quantgen
 	subdir = quantgen
 	registered = false
+[submodule "rbi"]
+	path = rbi
+	url = https://github.com/sbfnk/RBi
+[submodule "rbi.helpers"]
+	path = rbi.helpers
+	url = https://github.com/sbfnk/rbi.helpers
 [submodule "roxyglobals"]
 	path = roxyglobals
 	url = https://github.com/anthonynorth/roxyglobals
 	registered = false
+[submodule "scoringutils"]
+	path = scoringutils
+	url = https://github.com/epiforecasts/scoringutils
+[submodule "socialmixr"]
+	path = socialmixr
+	url = https://github.com/epiforecasts/socialmixr
 [submodule "stackr"]
 	path = stackr
 	url = https://github.com/nikosbosse/stackr
