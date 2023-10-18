@@ -54,10 +54,6 @@
 [submodule "rbi.helpers"]
 	path = rbi.helpers
 	url = https://github.com/sbfnk/rbi.helpers
-[submodule "roxyglobals"]
-	path = roxyglobals
-	url = https://github.com/anthonynorth/roxyglobals
-	registered = false
 [submodule "scoringutils"]
 	path = scoringutils
 	url = https://github.com/epiforecasts/scoringutils

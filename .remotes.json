@@ -25,12 +25,6 @@
     "from": "covid19.forecasts.uk"
   },
   {
-    "package": "roxyglobals",
-    "url": "https://github.com/anthonynorth/roxyglobals",
-    "via": ["socialmixr"],
-    "from": "socialmixr"
-  },
-  {
     "package": "scoringutils",
     "url": "https://github.com/epiforecasts/scoringutils",
     "via": ["EpiSoon", "stackr"],
