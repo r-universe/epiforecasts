@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/epiforecasts/universe
+	url = https://github.com/epiforecasts/epiforecasts.r-universe.dev
 	branch = HEAD
 [submodule "EpiNow"]
 	path = EpiNow
