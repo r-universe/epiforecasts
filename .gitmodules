@@ -39,10 +39,6 @@
 [submodule "idbrms"]
 	path = idbrms
 	url = https://github.com/epiforecasts/idbrms
-[submodule "loo"]
-	path = loo
-	url = https://github.com/stan-dev/loo
-	registered = false
 [submodule "quantgen"]
 	path = quantgen
 	url = https://github.com/ryantibs/quantgen
