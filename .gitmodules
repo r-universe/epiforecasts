@@ -39,6 +39,9 @@
 [submodule "idbrms"]
 	path = idbrms
 	url = https://github.com/epiforecasts/idbrms
+[submodule "qra"]
+	path = qra
+	url = https://github.com/epiforecasts/qra
 [submodule "quantgen"]
 	path = quantgen
 	url = https://github.com/ryantibs/quantgen
