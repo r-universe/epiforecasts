@@ -1,0 +1,66 @@
+[
+  {
+    "package": "EpiSoon",
+    "releasetag": true
+  },
+  {
+    "package": "EpiNow",
+    "releasetag": true
+  },
+  {
+    "package": "epinowcast",
+    "releasetag": true
+  },
+  {
+    "package": "EpiNow2",
+    "releasetag": true
+  },
+  {
+    "package": "RtD3",
+    "releasetag": true
+  },
+  {
+    "package": "covidregionaldata",
+    "releasetag": true
+  },
+  {
+    "package": "covid19.nhs.data",
+    "releasetag": true
+  },
+  {
+    "package": "scoringutils",
+    "releasetag": true
+  },
+  {
+    "package": "idbrms",
+    "releasetag": true
+  },
+  {
+    "package": "covid19.forecasts.uk",
+    "releasetag": true
+  },
+  {
+    "package": "forecast.vocs",
+    "releasetag": true
+  },
+  {
+    "package": "socialmixr",
+    "releasetag": true
+  },
+  {
+    "package": "epimixr",
+    "releasetag": true
+  },
+  {
+    "package": "rbi",
+    "releasetag": true
+  },
+  {
+    "package": "rbi.helpers",
+    "releasetag": true
+  },
+  {
+    "package": "qra",
+    "releasetag": true
+  }
+]
