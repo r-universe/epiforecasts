@@ -55,7 +55,7 @@
 [submodule "qra"]
 	path = qra
 	url = https://github.com/epiforecasts/qra
-	branch = v0.1.0
+	branch = v0.1.1
 [submodule "quantgen"]
 	path = quantgen
 	url = https://github.com/ryantibs/quantgen
@@ -68,7 +68,7 @@
 [submodule "rbi.helpers"]
 	path = rbi.helpers
 	url = https://github.com/sbfnk/rbi.helpers
-	branch = *release
+	branch = v0.4.0
 [submodule "rnaturalearthhires"]
 	path = rnaturalearthhires
 	url = https://github.com/ropensci/rnaturalearthhires
