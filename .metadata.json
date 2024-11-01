@@ -32,14 +32,6 @@
     "releasetag": true
   },
   {
-    "package": "idbrms",
-    "releasetag": true
-  },
-  {
-    "package": "covid19.forecasts.uk",
-    "releasetag": true
-  },
-  {
     "package": "forecast.vocs",
     "releasetag": true
   },
