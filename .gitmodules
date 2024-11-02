@@ -84,4 +84,4 @@
 [submodule "stackr"]
 	path = stackr
 	url = https://github.com/epiforecasts/stackr
-	branch = *release
+	branch = v0.1.0
