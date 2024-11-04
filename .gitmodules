@@ -55,7 +55,7 @@
 [submodule "qrensemble"]
 	path = qrensemble
 	url = https://github.com/epiforecasts/qrensemble
-	branch = *release
+	branch = v0.1.2
 [submodule "quantgen"]
 	path = quantgen
 	url = https://github.com/ryantibs/quantgen
