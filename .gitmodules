@@ -52,6 +52,10 @@
 	path = loo
 	url = https://github.com/stan-dev/loo
 	registered = false
+[submodule "qrensemble"]
+	path = qrensemble
+	url = https://github.com/epiforecasts/qrensemble
+	branch = *release
 [submodule "quantgen"]
 	path = quantgen
 	url = https://github.com/ryantibs/quantgen

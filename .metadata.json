@@ -52,6 +52,10 @@
     "releasetag": true
   },
   {
+    "package": "qrensemble",
+    "releasetag": true
+  },
+  {
     "package": "stackr",
     "releasetag": true
   }
