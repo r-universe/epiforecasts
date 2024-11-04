@@ -52,10 +52,6 @@
     "releasetag": true
   },
   {
-    "package": "qra",
-    "releasetag": true
-  },
-  {
     "package": "stackr",
     "releasetag": true
   }

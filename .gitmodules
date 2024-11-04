@@ -52,10 +52,6 @@
 	path = loo
 	url = https://github.com/stan-dev/loo
 	registered = false
-[submodule "qra"]
-	path = qra
-	url = https://github.com/epiforecasts/qra
-	branch = v0.1.2
 [submodule "quantgen"]
 	path = quantgen
 	url = https://github.com/ryantibs/quantgen
