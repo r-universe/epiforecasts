@@ -31,24 +31,10 @@
     "from": "covid19.forecasts.uk"
   },
   {
-    "package": "quantgen",
-    "url": "https://github.com/ryantibs/quantgen",
-    "via": ["qra"],
-    "subdir": "quantgen",
-    "from": "qra"
-  },
-  {
     "package": "rnaturalearthhires",
     "url": "https://github.com/ropensci/rnaturalearthhires",
     "via": ["EpiNow"],
     "from": "EpiNow"
-  },
-  {
-    "package": "scoringutils",
-    "url": "https://github.com/epiforecasts/scoringutils",
-    "via": ["qra"],
-    "branch": "b370557",
-    "from": "qra"
   },
   {
     "package": "stackr",
