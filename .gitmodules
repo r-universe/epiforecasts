@@ -55,7 +55,7 @@
 [submodule "nfidd"]
 	path = nfidd
 	url = https://github.com/nfidd/nfidd
-	branch = *release
+	branch = v1.0.0
 [submodule "qrensemble"]
 	path = qrensemble
 	url = https://github.com/epiforecasts/qrensemble
