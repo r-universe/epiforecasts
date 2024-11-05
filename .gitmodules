@@ -52,6 +52,10 @@
 	path = loo
 	url = https://github.com/stan-dev/loo
 	registered = false
+[submodule "nfidd"]
+	path = nfidd
+	url = https://github.com/nfidd/nfidd
+	branch = *release
 [submodule "qrensemble"]
 	path = qrensemble
 	url = https://github.com/epiforecasts/qrensemble
