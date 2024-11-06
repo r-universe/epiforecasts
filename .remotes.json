@@ -44,13 +44,6 @@
     "from": "EpiNow"
   },
   {
-    "package": "scoringutils",
-    "url": "https://github.com/epiforecasts/scoringutils",
-    "via": ["qrensemble"],
-    "branch": "b370557",
-    "from": "qrensemble"
-  },
-  {
     "package": "stackr",
     "url": "https://github.com/nikosbosse/stackr",
     "via": ["EpiNow", "EpiSoon"],
