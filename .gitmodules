@@ -89,3 +89,7 @@
 	path = stackr
 	url = https://github.com/epiforecasts/stackr
 	branch = v0.1.0
+[submodule "stanedit"]
+	path = stanedit
+	url = https://github.com/epiforecasts/stanedit
+	branch = *release
