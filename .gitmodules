@@ -92,4 +92,4 @@
 [submodule "stanedit"]
 	path = stanedit
 	url = https://github.com/epiforecasts/stanedit
-	branch = *release
+	branch = v0.1.0
