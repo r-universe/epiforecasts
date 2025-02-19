@@ -9,7 +9,7 @@
 [submodule "EpiNow2"]
 	path = EpiNow2
 	url = https://github.com/epiforecasts/EpiNow2
-	branch = v1.7.0
+	branch = v1.7.1
 [submodule "EpiSoon"]
 	path = EpiSoon
 	url = https://github.com/epiforecasts/EpiSoon
