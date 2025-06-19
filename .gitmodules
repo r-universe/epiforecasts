@@ -9,7 +9,7 @@
 [submodule "EpiSoon"]
 	path = EpiSoon
 	url = https://github.com/epiforecasts/EpiSoon
-	branch = v0.3.1
+	branch = v0.3.2
 [submodule "RtD3"]
 	path = RtD3
 	url = https://github.com/epiforecasts/RtD3
@@ -81,10 +81,6 @@
 	path = socialmixr
 	url = https://github.com/epiforecasts/socialmixr
 	branch = v0.4.0
-[submodule "stackr"]
-	path = stackr
-	url = https://github.com/nikosbosse/stackr
-	registered = false
 [submodule "stanedit"]
 	path = stanedit
 	url = https://github.com/epiforecasts/stanedit

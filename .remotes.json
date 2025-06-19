@@ -18,6 +18,12 @@
     "from": "epinowcast"
   },
   {
+    "package": "lopensemble",
+    "url": "https://github.com/epiforecasts/lopensemble",
+    "via": ["EpiSoon"],
+    "from": "EpiSoon"
+  },
+  {
     "package": "quantgen",
     "url": "https://github.com/ryantibs/quantgen",
     "via": ["covid19.forecasts.uk"],
@@ -30,11 +36,5 @@
     "via": ["qrensemble"],
     "subdir": "quantgen",
     "from": "qrensemble"
-  },
-  {
-    "package": "stackr",
-    "url": "https://github.com/nikosbosse/stackr",
-    "via": ["EpiSoon"],
-    "from": "EpiSoon"
   }
 ]
