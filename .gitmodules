@@ -52,6 +52,10 @@
 	path = loo
 	url = https://github.com/stan-dev/loo
 	registered = false
+[submodule "lopensemble"]
+	path = lopensemble
+	url = https://github.com/epiforecasts/lopensemble
+	branch = *release
 [submodule "nfidd"]
 	path = nfidd
 	url = https://github.com/nfidd/nfidd
@@ -87,8 +91,8 @@
 	branch = v0.4.0
 [submodule "stackr"]
 	path = stackr
-	url = https://github.com/epiforecasts/stackr
-	branch = v0.1.0
+	url = https://github.com/nikosbosse/stackr
+	registered = false
 [submodule "stanedit"]
 	path = stanedit
 	url = https://github.com/epiforecasts/stanedit
