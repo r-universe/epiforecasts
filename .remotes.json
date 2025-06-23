@@ -12,6 +12,12 @@
     "from": "forecast.vocs"
   },
   {
+    "package": "cmdstanr",
+    "url": "https://github.com/stan-dev/cmdstanr",
+    "via": ["lopensemble"],
+    "from": "lopensemble"
+  },
+  {
     "package": "loo",
     "url": "https://github.com/stan-dev/loo",
     "via": ["epinowcast"],
