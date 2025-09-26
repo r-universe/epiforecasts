@@ -51,7 +51,7 @@
 [submodule "rbi.helpers"]
 	path = rbi.helpers
 	url = https://github.com/sbfnk/rbi.helpers
-	branch = v0.4.0
+	branch = v0.4.1
 [submodule "scoringutils"]
 	path = scoringutils
 	url = https://github.com/epiforecasts/scoringutils
