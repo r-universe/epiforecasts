@@ -52,10 +52,6 @@
 	path = lopensemble
 	url = https://github.com/epiforecasts/lopensemble
 	branch = v0.1.2
-[submodule "nfidd"]
-	path = nfidd
-	url = https://github.com/nfidd/nfidd
-	branch = v1.1.2
 [submodule "qrensemble"]
 	path = qrensemble
 	url = https://github.com/epiforecasts/qrensemble
