@@ -56,6 +56,10 @@
     "releasetag": true
   },
   {
+    "package": "nfidd",
+    "releasetag": true
+  },
+  {
     "package": "stanedit",
     "releasetag": true
   }
