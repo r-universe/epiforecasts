@@ -8,10 +8,6 @@
     "releasetag": true
   },
   {
-    "package": "EpiNow2",
-    "releasetag": true
-  },
-  {
     "package": "RtD3",
     "releasetag": true
   },
