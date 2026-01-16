@@ -21,17 +21,10 @@
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
 	registered = false
-[submodule "covid19.forecasts.uk"]
-	path = covid19.forecasts.uk
-	url = https://github.com/epiforecasts/covid19.forecasts.uk
 [submodule "covid19.nhs.data"]
 	path = covid19.nhs.data
 	url = https://github.com/epiforecasts/covid19.nhs.data
 	branch = v0.1.0
-[submodule "covidregionaldata"]
-	path = covidregionaldata
-	url = https://github.com/epiforecasts/covidregionaldata
-	branch = 0.9.3
 [submodule "epimixr"]
 	path = epimixr
 	url = https://github.com/sbfnk/epimixr

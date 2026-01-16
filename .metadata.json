@@ -12,10 +12,6 @@
     "releasetag": true
   },
   {
-    "package": "covidregionaldata",
-    "releasetag": true
-  },
-  {
     "package": "covid19.nhs.data",
     "releasetag": true
   },
