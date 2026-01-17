@@ -2,12 +2,6 @@
   {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
-    "via": ["forecast.vocs"],
-    "from": "forecast.vocs"
-  },
-  {
-    "package": "cmdstanr",
-    "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["lopensemble"],
     "from": "lopensemble"
   },
