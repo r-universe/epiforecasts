@@ -21,10 +21,6 @@
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
 	registered = false
-[submodule "covid19.nhs.data"]
-	path = covid19.nhs.data
-	url = https://github.com/epiforecasts/covid19.nhs.data
-	branch = v0.1.0
 [submodule "epimixr"]
 	path = epimixr
 	url = https://github.com/sbfnk/epimixr
@@ -33,10 +29,6 @@
 	path = epinowcast
 	url = https://github.com/epiforecasts/epinowcast
 	branch = v0.5.0
-[submodule "forecast.vocs"]
-	path = forecast.vocs
-	url = https://github.com/epiforecasts/forecast.vocs
-	branch = v0.9.0
 [submodule "idbrms"]
 	path = idbrms
 	url = https://github.com/epiforecasts/idbrms

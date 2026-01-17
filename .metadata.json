@@ -12,15 +12,7 @@
     "releasetag": true
   },
   {
-    "package": "covid19.nhs.data",
-    "releasetag": true
-  },
-  {
     "package": "scoringutils",
-    "releasetag": true
-  },
-  {
-    "package": "forecast.vocs",
     "releasetag": true
   },
   {
