@@ -17,10 +17,6 @@
 	path = RtD3
 	url = https://github.com/epiforecasts/RtD3
 	branch = 1.0.0
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/stan-dev/cmdstanr
-	registered = false
 [submodule "epimixr"]
 	path = epimixr
 	url = https://github.com/sbfnk/epimixr
@@ -48,11 +44,6 @@
 	path = qrensemble
 	url = https://github.com/epiforecasts/qrensemble
 	branch = v0.1.4
-[submodule "quantgen"]
-	path = quantgen
-	url = https://github.com/ryantibs/quantgen
-	subdir = quantgen
-	registered = false
 [submodule "rbi"]
 	path = rbi
 	url = https://github.com/sbfnk/RBi
