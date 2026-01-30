@@ -50,5 +50,9 @@
   {
     "package": "EpiAwareR",
     "releasetag": true
+  },
+  {
+    "package": "forecastbaselines",
+    "releasetag": true
   }
 ]

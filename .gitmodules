@@ -29,6 +29,10 @@
 	path = epinowcast
 	url = https://github.com/epiforecasts/epinowcast
 	branch = v0.5.0
+[submodule "forecastbaselines"]
+	path = forecastbaselines
+	url = https://github.com/epiforecasts/forecastbaselines
+	branch = *release
 [submodule "idbrms"]
 	path = idbrms
 	url = https://github.com/epiforecasts/idbrms
