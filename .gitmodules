@@ -20,7 +20,7 @@
 [submodule "contactsurveys"]
 	path = contactsurveys
 	url = https://github.com/epiforecasts/contactsurveys
-	branch = *release
+	branch = v0.1.0
 [submodule "epimixr"]
 	path = epimixr
 	url = https://github.com/sbfnk/epimixr
