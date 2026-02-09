@@ -5,7 +5,7 @@
 [submodule "EpiAwareR"]
 	path = EpiAwareR
 	url = https://github.com/sbfnk/EpiAwareR
-	branch = v0.1.0
+	branch = v0.1.1
 [submodule "EpiNow2"]
 	path = EpiNow2
 	url = https://github.com/epiforecasts/EpiNow2
