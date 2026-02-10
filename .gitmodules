@@ -17,6 +17,10 @@
 	path = RtD3
 	url = https://github.com/epiforecasts/RtD3
 	branch = 1.0.0
+[submodule "contactsurveys"]
+	path = contactsurveys
+	url = https://github.com/epiforecasts/contactsurveys
+	branch = *release
 [submodule "epimixr"]
 	path = epimixr
 	url = https://github.com/sbfnk/epimixr
@@ -47,6 +51,7 @@
 [submodule "quantgen"]
 	path = quantgen
 	url = https://github.com/epiforecasts/quantgen
+	subdir = quantgen
 [submodule "rbi"]
 	path = rbi
 	url = https://github.com/sbfnk/RBi
