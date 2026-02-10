@@ -44,6 +44,9 @@
 	path = qrensemble
 	url = https://github.com/epiforecasts/qrensemble
 	branch = v0.1.4
+[submodule "quantgen"]
+	path = quantgen
+	url = https://github.com/epiforecasts/quantgen
 [submodule "rbi"]
 	path = rbi
 	url = https://github.com/sbfnk/RBi
