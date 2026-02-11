@@ -55,7 +55,7 @@
 [submodule "rbi"]
 	path = rbi
 	url = https://github.com/sbfnk/RBi
-	branch = v1.0.0
+	branch = v1.0.1
 [submodule "rbi.helpers"]
 	path = rbi.helpers
 	url = https://github.com/sbfnk/rbi.helpers
