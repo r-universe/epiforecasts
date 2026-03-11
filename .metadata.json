@@ -58,5 +58,9 @@
   {
     "package": "contactsurveys",
     "releasetag": true
+  },
+  {
+    "package": "ringbp",
+    "releasetag": true
   }
 ]

@@ -60,6 +60,10 @@
 	path = rbi.helpers
 	url = https://github.com/sbfnk/rbi.helpers
 	branch = v0.4.1
+[submodule "ringbp"]
+	path = ringbp
+	url = https://github.com/epiforecasts/ringbp
+	branch = *release
 [submodule "scoringutils"]
 	path = scoringutils
 	url = https://github.com/epiforecasts/scoringutils
