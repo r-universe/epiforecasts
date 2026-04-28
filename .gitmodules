@@ -71,7 +71,7 @@
 [submodule "socialmixr"]
 	path = socialmixr
 	url = https://github.com/epiforecasts/socialmixr
-	branch = v0.5.1
+	branch = v0.6.0
 [submodule "stanedit"]
 	path = stanedit
 	url = https://github.com/epiforecasts/stanedit
