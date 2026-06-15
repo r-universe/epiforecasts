@@ -63,7 +63,7 @@
 [submodule "ringbp"]
 	path = ringbp
 	url = https://github.com/epiforecasts/ringbp
-	branch = v0.1.2
+	branch = v1.0.0
 [submodule "scoringutils"]
 	path = scoringutils
 	url = https://github.com/epiforecasts/scoringutils
