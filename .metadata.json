@@ -62,5 +62,9 @@
   {
     "package": "ringbp",
     "releasetag": true
+  },
+  {
+    "package": "cfrnow",
+    "releasetag": true
   }
 ]

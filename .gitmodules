@@ -17,6 +17,10 @@
 	path = RtD3
 	url = https://github.com/epiforecasts/RtD3
 	branch = 1.0.0
+[submodule "cfrnow"]
+	path = cfrnow
+	url = https://github.com/epiforecasts/cfrnow
+	branch = *release
 [submodule "contactsurveys"]
 	path = contactsurveys
 	url = https://github.com/epiforecasts/contactsurveys
