@@ -24,7 +24,7 @@
 [submodule "contactsurveys"]
 	path = contactsurveys
 	url = https://github.com/epiforecasts/contactsurveys
-	branch = v0.1.0
+	branch = v0.2.0
 [submodule "distspec"]
 	path = distspec
 	url = https://github.com/epiforecasts/distspec
