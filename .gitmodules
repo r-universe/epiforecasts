@@ -20,7 +20,7 @@
 [submodule "cfrnow"]
 	path = cfrnow
 	url = https://github.com/epiforecasts/cfrnow
-	branch = v0.3.0
+	branch = v0.4.0
 [submodule "contactsurveys"]
 	path = contactsurveys
 	url = https://github.com/epiforecasts/contactsurveys
