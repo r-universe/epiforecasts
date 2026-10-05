@@ -46,7 +46,7 @@
 [submodule "juliabridge"]
 	path = juliabridge
 	url = https://github.com/epiforecasts/juliabridge
-	branch = *release
+	branch = v0.1.0
 [submodule "lopensemble"]
 	path = lopensemble
 	url = https://github.com/epiforecasts/lopensemble
