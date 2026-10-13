@@ -43,6 +43,10 @@
 [submodule "idbrms"]
 	path = idbrms
 	url = https://github.com/epiforecasts/idbrms
+[submodule "juliabridge"]
+	path = juliabridge
+	url = https://github.com/epiforecasts/juliabridge
+	branch = *release
 [submodule "lopensemble"]
 	path = lopensemble
 	url = https://github.com/epiforecasts/lopensemble

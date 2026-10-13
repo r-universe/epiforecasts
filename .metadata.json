@@ -66,5 +66,9 @@
   {
     "package": "cfrnow",
     "releasetag": true
+  },
+  {
+    "package": "juliabridge",
+    "releasetag": true
   }
 ]
